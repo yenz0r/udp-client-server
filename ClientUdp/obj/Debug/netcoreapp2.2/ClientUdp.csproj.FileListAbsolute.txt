@@ -1,0 +1,10 @@
+/Users/egorpii/Projects/client-server-udp/ClientUdp/bin/Debug/netcoreapp2.2/ClientUdp.deps.json
+/Users/egorpii/Projects/client-server-udp/ClientUdp/bin/Debug/netcoreapp2.2/ClientUdp.runtimeconfig.json
+/Users/egorpii/Projects/client-server-udp/ClientUdp/bin/Debug/netcoreapp2.2/ClientUdp.runtimeconfig.dev.json
+/Users/egorpii/Projects/client-server-udp/ClientUdp/bin/Debug/netcoreapp2.2/ClientUdp.dll
+/Users/egorpii/Projects/client-server-udp/ClientUdp/bin/Debug/netcoreapp2.2/ClientUdp.pdb
+/Users/egorpii/Projects/client-server-udp/ClientUdp/obj/Debug/netcoreapp2.2/ClientUdp.csproj.CoreCompileInputs.cache
+/Users/egorpii/Projects/client-server-udp/ClientUdp/obj/Debug/netcoreapp2.2/ClientUdp.AssemblyInfoInputs.cache
+/Users/egorpii/Projects/client-server-udp/ClientUdp/obj/Debug/netcoreapp2.2/ClientUdp.AssemblyInfo.cs
+/Users/egorpii/Projects/client-server-udp/ClientUdp/obj/Debug/netcoreapp2.2/ClientUdp.dll
+/Users/egorpii/Projects/client-server-udp/ClientUdp/obj/Debug/netcoreapp2.2/ClientUdp.pdb

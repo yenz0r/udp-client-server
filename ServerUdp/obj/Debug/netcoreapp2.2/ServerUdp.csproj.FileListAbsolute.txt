@@ -1,0 +1,11 @@
+/Users/egorpii/Projects/client-server-udp/ServerUdp/bin/Debug/netcoreapp2.2/ServerUdp.deps.json
+/Users/egorpii/Projects/client-server-udp/ServerUdp/bin/Debug/netcoreapp2.2/ServerUdp.runtimeconfig.json
+/Users/egorpii/Projects/client-server-udp/ServerUdp/bin/Debug/netcoreapp2.2/ServerUdp.runtimeconfig.dev.json
+/Users/egorpii/Projects/client-server-udp/ServerUdp/bin/Debug/netcoreapp2.2/ServerUdp.dll
+/Users/egorpii/Projects/client-server-udp/ServerUdp/bin/Debug/netcoreapp2.2/ServerUdp.pdb
+/Users/egorpii/Projects/client-server-udp/ServerUdp/obj/Debug/netcoreapp2.2/ServerUdp.csprojAssemblyReference.cache
+/Users/egorpii/Projects/client-server-udp/ServerUdp/obj/Debug/netcoreapp2.2/ServerUdp.csproj.CoreCompileInputs.cache
+/Users/egorpii/Projects/client-server-udp/ServerUdp/obj/Debug/netcoreapp2.2/ServerUdp.AssemblyInfoInputs.cache
+/Users/egorpii/Projects/client-server-udp/ServerUdp/obj/Debug/netcoreapp2.2/ServerUdp.AssemblyInfo.cs
+/Users/egorpii/Projects/client-server-udp/ServerUdp/obj/Debug/netcoreapp2.2/ServerUdp.dll
+/Users/egorpii/Projects/client-server-udp/ServerUdp/obj/Debug/netcoreapp2.2/ServerUdp.pdb
